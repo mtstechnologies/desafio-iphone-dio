@@ -1,5 +1,5 @@
 ## DIO - Trilha Java Básico
-![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=closed&color=GREEN&style=for-the-badge)
+![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=developing&color=GREEN&style=for-the-badge)
 
 ## POO - Desafio
 
@@ -30,28 +30,6 @@ Implementar as classes e interfaces correspondentes em Java (Opcional).
 
 ## Exemplo de Diagrama UML (Mermaid)
 
-classDiagram
-    class ReprodutorMusical {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class AparelhoTelefonico {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class NavegadorInternet {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class iPhone {
-    }
-
-    iPhone --> ReprodutorMusical
-    iPhone --> AparelhoTelefonico
-    iPhone --> NavegadorInternet
 
 ## Instruções
 1. Assista ao vídeo do lançamento do iPhone para entender as funcionalidades principais.
